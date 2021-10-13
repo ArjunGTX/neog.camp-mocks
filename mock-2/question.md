@@ -1,0 +1,1 @@
+#### Create a Password checker App. If the length of the password is odd, the text should be displayed in red and if it is even, display in green colour.
