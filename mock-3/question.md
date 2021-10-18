@@ -1,0 +1,1 @@
+#### Create a Like counter that displays Likes and a like button. The initial value must be 0. When clicked on the button, the number of likes must increase by 1.
