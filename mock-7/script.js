@@ -25,6 +25,6 @@ function highlightWord(sentence) {
             maxWord = i;
         }
     }
-    outputDiv.innerHTML = `the max length is ${maxLength} and the word is <span>${maxWord}</span>`;
+    outputDiv.innerHTML = `${sentence.replace(maxWord,`<span>${maxWord}</span>`)}`;
 }
 
