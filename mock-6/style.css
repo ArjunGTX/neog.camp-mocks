@@ -1,0 +1,6 @@
+:root {
+    --primary-color: red;
+}
+#output {
+    background-color: var(--primary-color);
+}
