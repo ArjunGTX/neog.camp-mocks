@@ -1,0 +1,1 @@
+#### Create a paragraph  and add this sentence 'Lorem ipsum dolor sit amet consectetur adipisicing elit' as its text node now create a button on clicking that button it should show the number of words present  in the above mentioned sentence  as an output
