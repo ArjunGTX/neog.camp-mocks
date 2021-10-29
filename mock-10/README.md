@@ -1,0 +1,1 @@
+#### Create a web app that accepts a sentence from the user. Display the sentence with each alternate character being upper case. display the output on the click of a button.
