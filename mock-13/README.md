@@ -1,0 +1,1 @@
+####  Create a web app, which On the Click of a button fetches data from the provided API https://mock-practice.prakhar10v.repl.co/items and from the data, displays the item with the highest price on the screen, below the button.
