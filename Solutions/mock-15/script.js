@@ -5,10 +5,10 @@ const outputDiv = document.querySelector('#output');
 
 checkBtn.addEventListener('click',() => {
     if(ageInput.checked) {
-        outputDiv.innerText = 'you are eligible';
+        outputDiv.innerText = `${nameInput.value} is eligible`;
         outputDiv.style.color = 'green';
     } else {
-        outputDiv.innerText = 'you are not eligible';
+        outputDiv.innerText = `${nameInput.value} is not eligible`;
         outputDiv.style.color = 'red';
     }
 })
