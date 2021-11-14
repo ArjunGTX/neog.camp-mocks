@@ -1,0 +1,1 @@
+#### Create a username input and a password input and  a submit button. if the password includes the username, then display weak password in red and disable the submit button. else, enable the button. Can you do a case-insensitive comparison for the same ?

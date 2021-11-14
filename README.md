@@ -72,6 +72,10 @@ Feel free to add your questions to this list.
 
 - [Solution](https://github.com/ArjunGTX/neog.camp-mocks/tree/master/Solutions/mock-16)
 
+17. Create a username input and a password input and  a submit button. if the password includes the username, then display weak password in red and disable the submit button. else, enable the button. Can you do a case-insensitive comparison for the same ?
+
+- [Solution](https://github.com/ArjunGTX/neog.camp-mocks/tree/master/Solutions/mock-17)
+
 
 ## How to Add your Questions ?
 
