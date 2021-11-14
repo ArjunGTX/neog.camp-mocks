@@ -8,10 +8,6 @@ inputTxt.addEventListener('input',() => {
 
 btnList.forEach((btn) => {
     btn.addEventListener('click',(e) => {
-        changeColor(e.target.innerText);
+        outputDiv.style.color = e.target.innerText;
     })
 })
-
-function changeColor(color) {
-    outputDiv.style.color = color;
-}
