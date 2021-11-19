@@ -76,6 +76,9 @@ Feel free to add your questions to this list.
 
 - [Solution](https://github.com/ArjunGTX/neog.camp-mocks/tree/master/Solutions/mock-17)
 
+18. create an input field that takes in a number. Display that many number of images to the user. Use this API to get the images https://source.unsplash.com/random `eg: if the user enters 10, 10 random images should be displayed`.***Follow Up*** : Can you style the images with curvy border and suitable width, height and margin?
+
+- [Solution](https://github.com/ArjunGTX/neog.camp-mocks/tree/master/Solutions/mock-18)
 
 ## How to Add your Questions ?
 
