@@ -5,7 +5,7 @@ const outputDiv = document.querySelector('#output');
 
 password.addEventListener('input', (e) => {
     let passwordTxt = e.target.value.toLowerCase();
-    let name = userName.toLowerCase();
+    let name = userName.value.toLowerCase();
     if(passwordTxt.includes(name)) {
         submitBtn.disabled = true;
         outputDiv.innerText = 'weak password';
