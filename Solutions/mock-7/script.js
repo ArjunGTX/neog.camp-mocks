@@ -7,7 +7,7 @@ highlightBtn.addEventListener('click',() => {
 });
 
 function highlightWord(sentence) {
-    let wordObj = {};
+    const wordObj = {};
     let word ='';
     let maxWord = '';
     let maxLength = 0;
